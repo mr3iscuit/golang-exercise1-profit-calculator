@@ -1,4 +1,4 @@
-module github.com/mr3iscuit/profit-calc
+module github.com/mr3iscuit/golang-exercise1-profit-calculator
 
 go 1.24.3
 

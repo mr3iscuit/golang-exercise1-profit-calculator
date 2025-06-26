@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/mr3iscuit/profit-calc/logic"
-	"github.com/mr3iscuit/profit-calc/state"
+	"github.com/mr3iscuit/golang-exercise1-profit-calculator/logic"
+	"github.com/mr3iscuit/golang-exercise1-profit-calculator/state"
 	"github.com/spf13/cobra"
 )
 
