@@ -1,5 +1,8 @@
 # Profit Calculator CLI
 
+## Description
+This CLI application is written using the Cobra library to provide a more engaging and professional command-line experience. As someone experienced in Go and many other programming languages, I find basic input/output with `fmt.Scan` and `fmt.Println` to be repetitive and not interesting. To make this project more enjoyable and educational, I have used Cobra for command parsing and help messages, and used some design patterns such as Singleton for state management.
+
 A command-line tool to calculate profit, Earnings Before Tax (EBT), and profit ratios based on your revenue, tax rate, and expenses. Built with Go and Cobra.
 
 ## Features
