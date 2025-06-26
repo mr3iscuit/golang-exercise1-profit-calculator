@@ -16,8 +16,8 @@ A command-line tool to calculate profit, Earnings Before Tax (EBT), and profit r
 Clone the repository and build the binary:
 
 ```sh
-git clone https://github.com/yourusername/profit-calc.git
-cd profit-calc
+git clone https://github.com/mr3iscuit/golang-exercise1-profit-calculator.git
+cd golang-exercise1-profit-calculator
 go build -o profit-calc
 ```
 
